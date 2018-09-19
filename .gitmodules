@@ -1,3 +1,6 @@
 [submodule "cryptonote"]
 	path = cryptonote
 	url = https://github.com/cryptonotefoundation/cryptonote.git
+[submodule "pebex"]
+	path = pebex
+	url = git@github.com:smupyknight/pebex.git
